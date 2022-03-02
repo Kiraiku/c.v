@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    margin: 20px;
+    font-family: Lora, serif;
+}
+
+
+header {
+    background-color: #2962ff;
+    display: flex;
+    color: #fff;
+    height: 200px;
+}
+
+div {
+    width: 50%;
+}
+
+.name   {
+    text-align: center;
+    /* padding: 30px; */
+    font-size: xx-large;
+}
+
+.details {
+    line-height: 5px;
+}
+
+h1  {
+    font-family: Ubuntu, sans-serif;
+}
+
+section {
+    border: 1px solid black;
+}
+
+.container {
+    background-color: #c0c0c0;
+    width: 85%;
+    border-radius: 15px;
+}
+
+.skill {
+    background-color: #2962ff;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+    margin: 0;
+}
+
+.team {
+    width: 80%;
+}
+
+.prob {
+    width: 70%;
+}
+
+.tech {
+    width: 80%;
+}
+
+.num {
+    width: 75%;
+}
+
+/* @media screen and (max-width: 600px) {
+
+    .name {
+        display: block;
+    }
+
+   .details {
+       display: block;
+   }
+} */
